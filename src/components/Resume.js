@@ -1,7 +1,5 @@
 import React, { Component } from 'react';
 
-import resumeData from '../resumeData';
-
 class Resume extends Component {
     render() {
         return (

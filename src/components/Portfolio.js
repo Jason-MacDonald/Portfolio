@@ -11,7 +11,7 @@ const Portfolio = () => {
             <div className="ui three cards container">
                 <div className="card">
                     <div className="image">
-                        <img src="https://blog.hyperiondev.com/wp-content/uploads/2019/02/Blog-Types-of-Web-Dev.jpg"></img>
+                        <img src="https://blog.hyperiondev.com/wp-content/uploads/2019/02/Blog-Types-of-Web-Dev.jpg" alt="project example"></img>
                     </div>
                     <div className="content">
                         <div className="header">project name</div>
@@ -26,7 +26,7 @@ const Portfolio = () => {
                 </div>
                 <div className="card">
                     <div className="image">
-                        <img src="https://blog.hyperiondev.com/wp-content/uploads/2019/02/Blog-Types-of-Web-Dev.jpg"></img>
+                        <img src="https://blog.hyperiondev.com/wp-content/uploads/2019/02/Blog-Types-of-Web-Dev.jpg" alt="project example"></img>
                     </div>
                     <div className="content">
                         <div className="header">project name</div>
@@ -41,7 +41,7 @@ const Portfolio = () => {
                 </div>
                 <div className="card">
                     <div className="image">
-                        <img src="https://blog.hyperiondev.com/wp-content/uploads/2019/02/Blog-Types-of-Web-Dev.jpg"></img>
+                        <img src="https://blog.hyperiondev.com/wp-content/uploads/2019/02/Blog-Types-of-Web-Dev.jpg" alt="project example"></img>
                     </div>
                     <div className="content">
                         <div className="header">project name</div>

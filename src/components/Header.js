@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import { NavHashLink } from 'react-router-hash-link';
 
 class Header extends Component {
     renderSocials() {

@@ -7,7 +7,7 @@ const About = () => {
             <div className="ui items container" >
                 <div className="item">
                     <div className="image avatar">
-                        <img src="https://media-exp1.licdn.com/dms/image/C5603AQHqzHcWZ_-6Jw/profile-displayphoto-shrink_200_200/0/1519962135896?e=1611792000&v=beta&t=RTgtx3dzT5IXecG78WwakDpCu9sombWsT5ermG82Rn8" />
+                        <img src="https://media-exp1.licdn.com/dms/image/C5603AQHqzHcWZ_-6Jw/profile-displayphoto-shrink_200_200/0/1519962135896?e=1611792000&v=beta&t=RTgtx3dzT5IXecG78WwakDpCu9sombWsT5ermG82Rn8" alt="avatar"/>
                     </div>
                     <div className="ui content">
                         <h1 className="ui header" style={{ color: 'white'}}>
@@ -24,8 +24,8 @@ const About = () => {
                             Contact Details
                         </h1>  
                         <div className="description" style={{ color: 'white'}}>
-                            <p style={{ fontSize: '1.5em' }}><b >GitHub:</b> <a href="https://github.com/Jason-MacDonald" target="_blank">https://github.com/Jason-MacDonald</a></p>
-                            <p style={{ fontSize: '1.5em' }}><b>Linkedin:</b> <a href="https://www.linkedin.com/in/jason-macdonald-624687158/" target="_blank" >https://www.linkedin.com/in/jason-macdonald-624687158/</a></p>
+                            <p style={{ fontSize: '1.5em' }}><b >GitHub:</b> <a href="https://github.com/Jason-MacDonald" target="_blank" rel="noreferrer">https://github.com/Jason-MacDonald</a></p>
+                            <p style={{ fontSize: '1.5em' }}><b>Linkedin:</b> <a href="https://www.linkedin.com/in/jason-macdonald-624687158/" target="_blank" rel="noreferrer" >https://www.linkedin.com/in/jason-macdonald-624687158/</a></p>
                         </div>
                     </div>         
                 </div>

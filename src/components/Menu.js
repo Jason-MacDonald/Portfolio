@@ -7,7 +7,7 @@ class Menu extends Component {
             <div>
                 <div style={{ backgroundColor: 'orange', paddingTop: '80px', paddingBottom: '20px' }}>
                     <h1 className="ui header center aligned">
-                        <i>/// CURRENTLY UNDER CONSTRUCTION ///</i>
+                        <i>/ / / CURRENTLY UNDER CONSTRUCTION / / /</i>
                     </h1>               
                 </div>
             
